@@ -1,6 +1,6 @@
 ###### Jared Thompson
 
-## Welcome to my personal webpage dedicated to everything from data projects to random hobbies and passions.
+## Welcome to my personal page dedicated to everything from data projects to random hobbies and passions.
 ## This site is inteded to be a building block for me to gain experience and share insights from my journey in data.
 
 ##### About ME
